@@ -2,7 +2,8 @@ pikachu volleyball is game
 before the beginnig of reversing, first of alll you have to know how to play and what is the rule
 
 
-press enter key twice, it is gonna be start/n
+press enter key twice, it is gonna be start
+
 
 control:
 
@@ -13,6 +14,7 @@ move: arrow key(left right)
 jump: up key
 
 spike and sliding: arrow key + enter
+
 
 
 
