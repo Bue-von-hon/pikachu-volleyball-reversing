@@ -1,6 +1,9 @@
 pikachu volleyball
-
 press enter key twice, it is gonna be start
+
+
+## purpose
+make invincibility player e.t.c
 
 
 ## control
