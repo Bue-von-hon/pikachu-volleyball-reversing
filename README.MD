@@ -14,6 +14,8 @@ jump: up key
 
 spike and sliding: arrow key + enter
 
+
+
 player 2
 
 move: d, g
