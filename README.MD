@@ -3,7 +3,7 @@ before the beginnig of reversing, first of alll you have to know how to play and
 press enter key twice, it is gonna be start
 
 
-##control:
+## control:
 
 
 player 1
