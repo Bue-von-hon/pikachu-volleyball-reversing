@@ -9,6 +9,7 @@ press enter key twice, it is gonna be start
 player 1
 
 
+
 move: arrow key(left right)
 
 
