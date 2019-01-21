@@ -7,6 +7,7 @@ press enter key twice, it is gonna be start
 
 control:
 
+
 player 1
 
 move: arrow key(left right)
@@ -14,8 +15,6 @@ move: arrow key(left right)
 jump: up key
 
 spike and sliding: arrow key + enter
-
-
 
 
 player 2
